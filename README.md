@@ -6,7 +6,9 @@
 
 `yarn install`
 
-### If you want to build from scratch then follow it
+`pnpm install`
+
+## If you want to build from scratch then follow the below steps
 
 Step 1: Create project folder
 
